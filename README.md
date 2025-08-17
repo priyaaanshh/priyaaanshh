@@ -1,8 +1,8 @@
 <br>
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+It's+Priyansh+Sahu;I'm+a+MERN+Stack+Developer+;Solved+500%2B+DSA+problems;" alt="Typing SVG" /></div>
+- ### 💻 I am a Sr. SWE @HCLTech and graduated from IIT (BHU), Varanasi.
 
-- ### 💻 I am a final year B.Tech student at IIT (BHU), Varanasi.
+- ### Currently working on building AI agents.
 
 - ### 📫 Reach me at priyansh.sahu.cer21@iitbhu.ac.in
 
